@@ -1,16 +1,16 @@
 #project1 {width:20%}
 body{
-    background-color:blueviolet;
+    background-color:teal;
     margin:0;
     padding:0;
 }
-p{
-    font-family: fantasy;
-    font-size:2em;
+srk{
+    font-family: helvetica;
+    font-size:10em;
 }
 a:visited{
-    color:bisque;
+    color:red;
 }
 a:hover{
-    font-size:1.5em;
+    font-size:1em;
 }
